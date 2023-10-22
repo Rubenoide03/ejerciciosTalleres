@@ -1,0 +1,28 @@
+.container-fluid{
+
+    font-family: 'Abel', sans-serif;}
+#titulo1{
+    display: contents;
+    font-size: 30px;
+    font-family: 'Abel', sans-serif;
+    color: #ffffff;
+    text-align: center;
+}
+#logo{
+    margin-right: 30px;
+}
+#titulo2{
+    display: contents;
+    font-size: 15px;
+    font-family: 'Raleway', sans-serif;
+    color: #0f1f6d;
+    text-align: center;
+
+}
+#logo{
+    display: flex;
+    width: 100px;
+    height: 100px;
+    float: right;
+
+}
